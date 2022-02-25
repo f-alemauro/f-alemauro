@@ -1,6 +1,8 @@
 <h1 align="center">Ciao 👋, this is Alessio from Como (Italy). Welcome!</h1>
 <h3 align="center">I'm a computer vision and AI/ML R&D engineer. Robotics Ph.D. Here you can find all my personal projects and experiments, I love testing lots of new technologies</h3>
 
+* * *
+
 
 📫 How to reach me? **[Email me!](mailto:f.alemauro@gmail.com)**
 
