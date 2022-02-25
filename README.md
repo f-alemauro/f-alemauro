@@ -1,6 +1,6 @@
 <h1 align="center">Ciao 👋, this is Alessio from Como (Italy). Welcome!</h1>
 <h3 align="center">I'm a computer vision and AI/ML R&D engineer. Robotics Ph.D. Here you can find all my personal projects and experiments, I love testing lots of new technologies</h3>
-📫 How to reach me **f.alemauro@gmail.com**
+📫 How to reach me ** f.alemauro@gmail.com **
 <!--
 **f-alemauro/f-alemauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
