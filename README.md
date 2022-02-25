@@ -11,3 +11,11 @@
 🎓 I have a **Ph.D. in robotics** from Politecnico di Milano. I love autonomous robots !
 
 🎓 I have a **Master Degree** in Computer Science. Guess what? Specialization in robotics, AI and ML :grin:
+
+:bulb: Experimenting with... everything?!? NN, CV, web technologies, smart home, arduino, sensors :boom:
+
+* * *
+
+## My skills
+
+Computer Vision, C#, Python, AI/ML, etc etc... STOP :x: I really don't like this list, I've always felt it does not describe my attitude. I prefer saying that I'm a (computer science) engineer above all. I'm always happy to face new challenges, I'm really good at solving problems and making them "ready for production" eventually. Let's call this R&D. The frameworks, the programming languages are just tools to set, track and achieve a goal. Of course you can find the updated list of skills on my CV and resume :grin:
