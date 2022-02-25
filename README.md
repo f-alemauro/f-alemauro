@@ -4,7 +4,7 @@
 * * *
 
 
-📫 How to reach me? **[Email me](mailto:f.alemauro@gmail.com)**! Or reach me on **[Linkedin](https://www.linkedin.com/in/alemauro/)**
+📫 How to reach me? **[Email me](mailto:f.alemauro@gmail.com)**! Or send me a message me on **[Linkedin](https://www.linkedin.com/in/alemauro/)**
 
 🔭 I work at **BS4sa** in Chiasso (CH) as R&D engineer on AI/ML for Intelligent People Counter and Smart cities.
 
