@@ -6,9 +6,9 @@
 
 📫 How to reach me? **[Email me](mailto:f.alemauro@gmail.com)**! Or send me a message me on **[Linkedin](https://www.linkedin.com/in/alemauro/)**
 
-🔭 I work at **BS4sa** in Chiasso (CH) as R&D engineer on AI/ML for Intelligent People Counter and Smart cities.
+🔭 I work at **Medacta** in Balerna(CH) as R&D CS engineer. Working on software for surgery&implants, playing with Kuka LBR cobot.
 
-🎓 I have a **Ph.D. in robotics** from Politecnico di Milano. I love autonomous robots !
+🎓 I have a **Ph.D. in robotics** from Politecnico di Milano. I love autonomous robots!
 
 🎓 I have a **Master Degree** in Computer Science. Guess what? Specialization in robotics, AI and ML :grin:
 
